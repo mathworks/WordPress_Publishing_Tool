@@ -25,7 +25,7 @@ The App will:
 
  1. Get **wp_publisher.mlapp** and **convertScript.p** in your workspace
 
-![enter image description here](https://github.mathworks.com/development/blogs/blob/main/publishing_tool/WordPress_Publishing_Tool/images/deployment.png)
+![enter image description here](https://github.com/mathworks/WordPress_Publishing_Tool/blob/main//images/deployment.png)
  2. Add wp_publisher MATLAB® App directory into your MATLAB® path permanently
 
 ![enter image description here](https://www.mathworks.com/matlabcentral/answers/uploaded_files/227308/Untitled.png)
@@ -35,7 +35,7 @@ The App will:
  1. Upload **live-script-support** to your WordPress plugin (/wp-content/plugins)
  2. Activate **Live Script Support** plugin:
 
-![enter image description here](https://github.mathworks.com/development/blogs/blob/main/publishing_tool/WordPress_Publishing_Tool/images/plugin.png)
+![enter image description here](https://github.com/mathworks/WordPress_Publishing_Tool/blob/main//images/plugin.png)
 
 ## Getting Started
 According to your habits, you can create a folder for all your blog post live scripts, or a folder for all your blog post live scripts for a particular year (e.g. 2021_blog_posts).
@@ -45,25 +45,25 @@ According to your habits, you can create a folder for all your blog post live sc
  - Go to your blog post folder with live scripts
  - In MATLAB® Command Window, simply type `wp_publisher`:
 
-![enter image description here](https://github.mathworks.com/development/blogs/blob/main/publishing_tool/WordPress_Publishing_Tool/images/blogs.png)
+![enter image description here](https://github.com/mathworks/WordPress_Publishing_Tool/blob/main//images/blogs.png)
 	
  - The publishing tool will be opened and lead you to the **settings** tab, where you can input your WordPress blog site information. 
 	 - You also can choose the location to store the output files for your blog post live script
 	 - Choose your installed WordPress API authentication
 	 - Save your settings and your blog information will be saved in your workspace
 
-![enter image description here](https://github.mathworks.com/development/blogs/blob/main/publishing_tool/WordPress_Publishing_Tool/images/blog_setting.png)
+![enter image description here](https://github.com/mathworks/WordPress_Publishing_Tool/blob/main//images/blog_setting.png)
 
  - Switch to **Publish post** tab, you will see a dropdown menu to choose the live script you want to post as article to your WordPress blog
 
-![enter image description here](https://github.mathworks.com/development/blogs/blob/main/publishing_tool/WordPress_Publishing_Tool/images/post.png)
+![enter image description here](https://github.com/mathworks/WordPress_Publishing_Tool/blob/main//images/post.png)
 
 
 - You can check "**Allow your readers to download your source Live Script**" and your live script will be uploaded to your WordPress media library for users to download
  - Once you finish choosing your blog post, click **Publish draft** button, your live script will be posted to your WordPress as a draft.
 	 - The link to the draft of your post will be displayed in your MATLAB® Command Window (you need to log in your WordPress to see the draft)
 	 
-![enter image description here](https://github.mathworks.com/development/blogs/blob/main/publishing_tool/WordPress_Publishing_Tool/images/after_post.png)
+![enter image description here](https://github.com/mathworks/WordPress_Publishing_Tool/blob/main//images/after_post.png)
 
  - You can preview the post, once you are happy about the post, you can then publish it.
 	 
@@ -84,7 +84,7 @@ According to your habits, you can create a folder for all your blog post live sc
  - In your live script of blog post, we suggest you add your article title so the publishing tool will know what's your blog post title. If you did not add title in your live script, the publishing tool will add a placeholder title for your blog post, you can modify it later in your blog draft.
  - Once the live script is published to your WordPress site by the App and you want to make some editing on the article, instead updating directly in your WordPress, we'd suggest you edit your article in your MATLAB® live scripts and use the App again to keep content consistent. The App will know the post information from the output folder:
 
-![enter image description here](https://github.mathworks.com/development/blogs/blob/main/publishing_tool/WordPress_Publishing_Tool/images/update.png)
+![enter image description here](https://github.com/mathworks/WordPress_Publishing_Tool/blob/main//images/update.png)
   	
 
 ## License
