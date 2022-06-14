@@ -96,4 +96,4 @@ Distributed under the XSLA and BSD-3-Clause License
 
 [MATLAB Central](https://www.mathworks.com/matlabcentral)
 
-Copyright 2021 The MathWorks, Inc.
+Copyright 2022 The MathWorks, Inc.
