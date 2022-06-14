@@ -89,8 +89,7 @@ According to your habits, you can create a folder for all your blog post live sc
 
 ## License
 
-
-Distributed under the XSLA and BSD-3-Clause License
+The license is available in the [License file](https://github.com/mathworks/WordPress_Publishing_Tool/blob/master/license.txt) within this repository.
 
 ## [](#community-support)Community Support
 
