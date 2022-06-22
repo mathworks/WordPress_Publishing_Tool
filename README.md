@@ -1,4 +1,4 @@
-﻿
+
 # Publishing tool for MATLAB® live script to WordPress
 [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/103730-publishing-tool-for-matlab-live-script-to-wordpress)  
  
@@ -95,4 +95,4 @@ The license is available in the [License file](https://github.com/mathworks/Word
 
 [MATLAB Central](https://www.mathworks.com/matlabcentral)
 
-Copyright 2022 The MathWorks, Inc.
+Copyright 2021-2022 The MathWorks, Inc.
