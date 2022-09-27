@@ -13,7 +13,7 @@ The App will:
 ## Setup 
 ### Prerequisite
 - Be connected to internet
-### MathWorks® Products ([http://www.mathworks.com](http://www.mathworks.com))
+### MathWorks® Products ([https://www.mathworks.com](http://www.mathworks.com))
  - Requires MATLAB® release R2020a or newer
 ### 3rd Party Products:
 - WordPress V4.7 and above with WP JSON API enabled
