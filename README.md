@@ -31,6 +31,7 @@ The App will:
 ![enter image description here](https://www.mathworks.com/matlabcentral/answers/uploaded_files/227308/Untitled.png)
 
 ### WordPress
+#### Note: This plugin is not required for MathWorks internal [bloggers](https://blogs.mathworks.com/)
 
  1. Upload **live-script-support** to your WordPress plugin (/wp-content/plugins)
  2. Activate **Live Script Support** plugin:
