@@ -80,6 +80,8 @@ According to your habits, you can create a folder for all your blog post live sc
 
  - If you are not in your blog post folder, please close the publishing tool, go to your blog post folder with live scripts and reopen the App. 
  - Once you click **Publish draft** button, the App will create a folder named as your live script to store the information of the article and images from your live script
+ - To avoid additional formatting by WordPress Editor, please select 'No Character Encoding' value at the bottom of the editor
+ ![enter image description here](https://github.com/mathworks/WordPress_Publishing_Tool/blob/master/images/no_encoding.png)
  - You can update your WordPress settings in the App whenever your are using the App
  - In your live script of blog post, we suggest you add your article title so the publishing tool will know what's your blog post title. If you did not add title in your live script, the publishing tool will add a placeholder title for your blog post, you can modify it later in your blog draft.
  - Once the live script is published to your WordPress site by the App and you want to make some editing on the article, instead updating directly in your WordPress, we'd suggest you edit your article in your MATLAB® live scripts and use the App again to keep content consistent. The App will know the post information from the output folder:
@@ -95,4 +97,4 @@ The license is available in the [License file](https://github.com/mathworks/Word
 
 [MATLAB Central](https://www.mathworks.com/matlabcentral)
 
-Copyright 2021-2022 The MathWorks, Inc.
+Copyright 2021-2023 The MathWorks, Inc.
